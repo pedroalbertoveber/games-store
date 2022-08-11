@@ -1,0 +1,52 @@
+{
+    "games" : [
+        {
+            "id": "1",
+            "title": "Batman: Arkham Knight",
+            "description" : "Arkham Knight é apresentado na perspectiva de terceira pessoa, com o principal foco nas habilidades de Batman. O jogo introduz o Batmóvel, que pode ser usado para transporte e combate. O arsenal de Batman foi expandido, com um maior número de engenhocas e ataques, incluindo o uso de parceiros.",
+            "consoles": "Playstation 4",
+            "category": "Ação",
+            "costs": "150"
+        },
+        {
+            "id": "2",
+            "title": "God Of War",
+            "description" : "God of War é um jogo eletrônico de ação-aventura apresentado a partir de uma perspectiva em terceira pessoa. O jogo conta com uma jogabilidade muito diferente dos jogos anteriores e foi reconstruído a partir do zero.",
+            "consoles": "Playstation 4",
+            "category": "Ação",
+            "costs": "180"
+        },
+        {
+            "id": "3",
+            "title": "Grand Theft Auto V",
+            "description" : "O jogo se passa no estado ficcional de San Andreas, com a história da campanha um jogador seguindo três criminosos e seus esforços para realizarem assaltos sob a pressão de uma agência governamental. O mundo aberto permite que os jogadores naveguem livremente pelas áreas rurais e urbanas de San Andreas.",
+            "consoles": "Playstation 4",
+            "category": "Ação",
+            "costs": "195"
+        },
+        {
+            "id": "4",
+            "title": "Mortal Kombat - 11",
+            "description" : "Mortal Kombat 11 traz um bom leque de modos de jogo. Além do História, há também as já conhecidas Torres, que funcionam como uma espécie de modo Arcade. Nelas, é preciso enfrentar uma série de oponentes até a chefe Kronika e desbloquear o final do personagem que você está jogando.",
+            "consoles": "Playstation 4", 
+            "category": "Luta",
+            "costs": "250"
+        },
+        {
+            "id": "5",
+            "title": "Resident Evil 3 REMAKE",
+            "description" : "Resident Evil 3 é uma recriação de Resident Evil 3: Nemesis, um jogo eletrônico de survival horror lançado para o PlayStation em 1999. Enquanto o jogo original usa controles de tanque e ângulos de câmera fixa, essa recriação apresenta uma jogabilidade de tiro em terceira pessoa, semelhante ao Resident Evil 2, de 2019.",
+            "consoles": "Playstation 4", 
+            "category": "Terror",
+            "costs": "170"
+        },
+        {
+            "id": "6",
+            "title": "Spider-Man: Miles Morales",
+            "description" : "Uma guerra pelo controle da Nova York da Marvel estourou entre uma empresa de energia desonesta e um exército criminoso de alta tecnologia. Com o seu novo lar ameaçado pelo conflito, Miles deve descobrir o preço de se tornar um herói e decidir o que sacrificar pelo bem maior.",
+            "consoles": "Playstation 4",
+            "category": "Ação",
+            "costs": "299"
+        }
+    ]
+}
